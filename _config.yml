@@ -1,0 +1,28 @@
+name: TestTime
+favicon: null
+layout_spectrum: 0.5844613516237587
+typography_spectrum: 0.7971088064368814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.642188586993143
+  lightness: 0.8029075539670885
+  saturation: 0.6113484769593924
+  rhythmicContrast: 0.3015278954990208
+purpose: []
